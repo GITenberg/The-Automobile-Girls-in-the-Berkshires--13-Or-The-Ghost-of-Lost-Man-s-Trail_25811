@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4425'
     url: http://www.gutenberg.org/2009/agents/4425
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25811#The-Automobile-Girls-in-the-Berkshires--13-Or-The-Ghost-of-Lost-Man-s-Trail
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2008-06-16'
 gutenberg_type: Text
